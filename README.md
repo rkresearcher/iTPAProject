@@ -94,7 +94,6 @@ Python 3.12.3
 
 ```
 
-.
 ├── iTPAEngine/
 │   ├── DamageAnalyzer/
 │   └── DocumentOCRProcessor/
